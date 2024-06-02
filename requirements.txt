@@ -13,10 +13,12 @@ backcall==0.2.0
 beautifulsoup4==4.12.3
 behave==1.2.6
 bleach==6.1.0
+blinker==1.8.2
 cachetools==5.3.2
 certifi==2023.11.17
 cffi==1.16.0
 charset-normalizer==3.3.2
+click==8.1.7
 colorama==0.4.6
 comm==0.2.0
 contourpy==1.2.0
@@ -32,6 +34,7 @@ exceptiongroup==1.2.0
 executing==2.0.1
 fastjsonschema==2.19.0
 filelock==3.13.1
+Flask==3.0.3
 flatbuffers==23.5.26
 fonttools==4.45.1
 fqdn==1.5.1
@@ -52,6 +55,7 @@ ipython==8.18.1
 ipython-genutils==0.2.0
 ipywidgets==8.1.2
 isoduration==20.11.0
+itsdangerous==2.2.0
 jax==0.4.20
 jedi==0.19.1
 Jinja2==3.1.3
